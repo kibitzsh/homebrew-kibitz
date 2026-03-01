@@ -1,8 +1,8 @@
 class Kibitz < Formula
   desc "Real-time decoded feed of AI agent actions — monitor Claude Code & Codex sessions"
   homepage "https://github.com/kibitzsh/kibitz"
-  url "https://registry.npmjs.org/@kibitzsh/kibitz/-/kibitz-0.0.5.tgz"
-  sha256 "5474a99a1aa3b8efb91d5c61fd6e0a4600cea0c5c6cb01623439ea61273703c2"
+  url "https://registry.npmjs.org/@kibitzsh/kibitz/-/kibitz-0.0.6.tgz"
+  sha256 "298d7716e4ae4dbe7aa57cd7e3a24116f0641cc29a88aaebc740abc42eae1dba"
   license "MIT"
 
   depends_on "node"
